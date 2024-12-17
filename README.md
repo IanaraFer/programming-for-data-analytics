@@ -1,4 +1,4 @@
-# programming-for-data-analytics
+# PROGRAMMING FOR DATA ANALYTICS
 
 This repository is about a module of programming for data analytics at ATU that I should be able to;
 
@@ -7,7 +7,7 @@ Design computer algorithms to solve numerical problems.
 Create software that incorporates and utilises standard numerical libraries.
 Employ appropriate data structures when programming for data-intensive applications.
 
-To acess you will need python and csv.
+To acess you will need python, panda, StringIO and csv.
 
 by = Ianara Fernandes
 
