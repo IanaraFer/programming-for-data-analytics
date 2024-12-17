@@ -22,3 +22,7 @@ https://realpython.com/numpy-tutorial/
 https://www.w3schools.com/python/numpy/default.asp
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html#pandas.to_datetime
 https://realpython.com/pandas-dataframe/#working-with-time-series
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+https://www.w3schools.com/python/matplotlib_plotting.asp
+https://www.geeksforgeeks.org/matplotlib-pyplot-plot-function-in-python/
+https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
